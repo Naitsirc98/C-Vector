@@ -56,7 +56,7 @@ void simple_test()
 	{
 		object obj = { i, i*2.5, i*10 };
 		object* obj2 = vec_at(vec, i);
-		assert(objcmp(&obj, obj2) == 0);
+		assert(objcmp(&obj, obj2));
 	}
 
 	for(int i = 0;i < n;i++)
@@ -64,7 +64,7 @@ void simple_test()
 		object obj = { i, i*2.5, i*10 };
 		object obj2;
 		vec_at_cp(vec, i, &obj2);
-		assert(objcmp(&obj, &obj2) == 0);
+		assert(objcmp(&obj, &obj2));
 	}
 
 	for(int i = 0;!vec_empty(vec);i++)
