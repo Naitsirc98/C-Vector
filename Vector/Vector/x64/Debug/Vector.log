@@ -1,0 +1,5 @@
+﻿  main.c
+g:\visualstudioprojects\vector\vector\vector\tests\main.c(85): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+g:\visualstudioprojects\vector\vector\vector\tests\main.c(101): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+g:\visualstudioprojects\vector\vector\vector\tests\main.c(115): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+  Vector.vcxproj -> G:\VisualStudioProjects\Vector\Vector\x64\Debug\Vector.exe

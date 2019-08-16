@@ -1,0 +1,11 @@
+﻿  main.c
+g:\visualstudioprojects\vector\vector\vector\tests\main.c(85): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+g:\visualstudioprojects\vector\vector\vector\tests\main.c(101): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+g:\visualstudioprojects\vector\vector\vector\tests\main.c(115): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+g:\visualstudioprojects\vector\vector\vector\tests\main.c(175): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  1 of 34 functions ( 2.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Vector.vcxproj -> G:\VisualStudioProjects\Vector\Vector\x64\Release\Vector.exe
