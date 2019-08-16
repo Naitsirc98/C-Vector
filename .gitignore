@@ -1,0 +1,12 @@
+# Directories
+
+Vector/.vs/
+Vector/x86/
+Vector/x64/
+Vector/.vs/
+Vector/Debug/
+Vector/Release/
+
+# Files
+
+*.sln
