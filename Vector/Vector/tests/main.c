@@ -21,13 +21,13 @@ void print_obj(object* obj)
 int objcmp(object* o1, object* o2)
 {
 	if(o1->x != o2->x)
-		return 1;
+		return 0;
 	if(o1->y != o2->y)
-		return 1;
+		return 0;
 	if(o1->z != o2->z)
-		return 1;
+		return 0;
 
-	return 0;
+	return 1;
 }
 
 void simple_test()
