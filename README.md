@@ -1,2 +1,2 @@
 # C-Vector
-std::vector for C language
+std::vector for the C language
